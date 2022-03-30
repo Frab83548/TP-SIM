@@ -22,6 +22,7 @@ C:\Users\villa\source\repos\TP1-SIM\TP-SIM\TP-SIM\TP-SIM\obj\Debug\TP-SIM.csproj
 C:\Users\villa\source\repos\TP1-SIM\TP-SIM\TP-SIM\TP-SIM\obj\Debug\TP-SIM.csproj.CoreCompileInputs.cache
 C:\Users\villa\source\repos\TP1-SIM\TP-SIM\TP-SIM\TP-SIM\obj\Debug\TP-SIM.exe
 C:\Users\villa\source\repos\TP1-SIM\TP-SIM\TP-SIM\TP-SIM\obj\Debug\TP-SIM.pdb
+<<<<<<< HEAD
 C:\Users\fcapo\OneDrive\Documents\GitHub\TP-SIM\TP-SIM\TP-SIM\bin\Debug\TP-SIM.exe.config
 C:\Users\fcapo\OneDrive\Documents\GitHub\TP-SIM\TP-SIM\TP-SIM\bin\Debug\TP-SIM.exe
 C:\Users\fcapo\OneDrive\Documents\GitHub\TP-SIM\TP-SIM\TP-SIM\bin\Debug\TP-SIM.pdb
@@ -34,3 +35,6 @@ C:\Users\fcapo\OneDrive\Documents\GitHub\TP-SIM\TP-SIM\TP-SIM\obj\Debug\TP-SIM.c
 C:\Users\fcapo\OneDrive\Documents\GitHub\TP-SIM\TP-SIM\TP-SIM\obj\Debug\TP-SIM.csproj.CoreCompileInputs.cache
 C:\Users\fcapo\OneDrive\Documents\GitHub\TP-SIM\TP-SIM\TP-SIM\obj\Debug\TP-SIM.exe
 C:\Users\fcapo\OneDrive\Documents\GitHub\TP-SIM\TP-SIM\TP-SIM\obj\Debug\TP-SIM.pdb
+=======
+C:\Users\villa\source\repos\TP1-SIM\TP-SIM\TP-SIM\TP-SIM\obj\Debug\TP_SIM.Interfaz.TestChi.resources
+>>>>>>> d200b2dc9edc77e7a02badf4a378454fc3b369c5
