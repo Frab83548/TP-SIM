@@ -38,3 +38,4 @@ C:\Users\fcapo\OneDrive\Documents\GitHub\TP-SIM\TP-SIM\TP-SIM\obj\Debug\TP-SIM.p
 =======
 C:\Users\villa\source\repos\TP1-SIM\TP-SIM\TP-SIM\TP-SIM\obj\Debug\TP_SIM.Interfaz.TestChi.resources
 >>>>>>> d200b2dc9edc77e7a02badf4a378454fc3b369c5
+C:\Users\fcapo\OneDrive\Documents\GitHub\TP-SIM\TP-SIM\TP-SIM\obj\Debug\TP_SIM.Interfaz.TestChi.resources
